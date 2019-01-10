@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPermission</string>
+    <string name="rational_title">please check permision</string>
+    <string name="rational_positive">confirm</string>
+    <string name="rational_cancel">cancel</string>
+    <string name="rational_message">i cant\'t do any things withou permission</string>
+</resources>
